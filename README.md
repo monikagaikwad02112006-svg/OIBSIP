@@ -70,6 +70,17 @@ CSS media queries are used to adjust the layout for smaller screen sizes.
 
 ![DataNova Landing Page](screenshots/landing-page.png)
 
+## Project Links
+
+### Live Demo
+
+[View Live Demo]https://oibsip-5eep.vercel.app/
+
+### GitHub Repository
+
+[View Source Code on GitHub]https://github.com/monikagaikwad02112006-svg/OIBSIP
+
+
 ## Internship Task
 
 **Organization:** Oasis Infobyte
