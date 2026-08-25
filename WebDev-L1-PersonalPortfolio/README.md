@@ -69,8 +69,6 @@ Open the index.html file in a web browser.
 
 You can also open the project using VS Code and use the Live Server extension for development.
 
-Screenshots
-Landing Page
 
 
 
